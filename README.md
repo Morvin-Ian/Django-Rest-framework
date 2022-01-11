@@ -1,2 +1,2 @@
 # Django-Rest-framework
-Authentication, Viewsets, etc i Django rest framework
+Authentication, Viewsets, etc in Django rest framework
